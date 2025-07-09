@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanhub&label=Profile%20views&color=0e75b6&style=flat" alt="hasanhub" /> </p>
 
-<p align="left"> <a href=https://github-profile-trophy.vercel.app/?username=ryo-ma(https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="left"> <a href=https://github-profile-trophy.vercel.app/?username=ryo-ma
 - 🔭 I’m currently working on [Rashedhub](https://rashedhub.github.io/)
 
 - 🌱 I’m currently learning **Python**
