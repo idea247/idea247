@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Chowdhury</h1>
-<h3 align="center">A passionate Python Programmer & frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Python Programmer & website developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanhub&label=Profile%20views&color=0e75b6&style=flat" alt="hasanhub" /> </p>
 
